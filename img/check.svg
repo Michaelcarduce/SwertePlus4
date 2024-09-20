@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 100 100" fill="none" stroke="#FFD700" stroke-width="6" stroke-linecap="butt" stroke-linejoin="miter">
+  <!-- Check mark path -->
+  <path id="check" d="M30 50 L45 65 L70 35" stroke-dasharray="60" stroke-dashoffset="60">
+    <animate attributeName="stroke-dashoffset" from="60" to="0" dur="0.5s" fill="freeze" />
+  </path>
+
+</svg>

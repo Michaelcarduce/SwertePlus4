@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 100 100" fill="none" stroke="#FF0000" stroke-width="6" stroke-linecap="butt" stroke-linejoin="miter">
+  <!-- X mark path (two lines) -->
+  <line id="x1" x1="30" y1="30" x2="70" y2="70" stroke-dasharray="57" stroke-dashoffset="57">
+    <animate attributeName="stroke-dashoffset" from="57" to="0" dur="0.5s" fill="freeze" />
+  </line>
+  <line id="x2" x1="70" y1="30" x2="30" y2="70" stroke-dasharray="57" stroke-dashoffset="57">
+    <animate attributeName="stroke-dashoffset" from="57" to="0" begin="0.2s" dur="0.5s" fill="freeze" />
+  </line>
+
+</svg>
